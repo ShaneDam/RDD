@@ -5,4 +5,4 @@ Regression Discontinuity Design (RDD) project to estimate the effect of the foll
 2. The reopening of schools on 31/8/2020 
 3. The 25/12/2020 lockdown
 
-on COVID cases.
+on COVID-19 cases.
